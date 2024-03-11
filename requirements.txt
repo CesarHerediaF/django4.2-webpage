@@ -1,0 +1,6 @@
+black
+Django==4.2
+python-docx
+nltk
+pandas
+scikit-learn
